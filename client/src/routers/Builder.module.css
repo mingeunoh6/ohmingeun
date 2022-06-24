@@ -1,0 +1,14 @@
+.builderBody {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.leftInspector{
+    background-color: aqua;
+}
+
+.rightInspector{
+    background-color: brown;
+}
